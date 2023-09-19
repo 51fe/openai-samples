@@ -1,6 +1,6 @@
 > Some AI Sapmles
 
-<img height="400" src="https://www.riafan.com/uploads/icons/ai.svg" alt="AI">
+<img height="400" src="https://51fe.site/uploads/icons/ai.svg" alt="AI">
 
 ---
 
